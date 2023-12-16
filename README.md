@@ -4,6 +4,12 @@
 
 This data analysis project aims to provide insights into the the Department of Higher Education's appropriation for the 2022/23 period. By analysing various aspects of the data, we seek to identify trends, make data-driven recommendation, and gain a deeper undertanding of the state of Higher Education funding in South Africa.
 
+### Table of Contents
+- [Data Sources](#data-sources).
+- [Tools](#tools).
+- [Data Collection and Merging](#data-collection-and-merging).
+- [Excel Dashboard Creation](#excel-dashboard-creation).
+
 ### Data Sources
 Higher Education data: The primary dataset used for this analysis is the "Appropriation of Higher Education_Original.xlsx" file containing detailed information about the various programmes that the department funds.
 
